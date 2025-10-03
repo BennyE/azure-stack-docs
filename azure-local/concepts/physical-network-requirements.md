@@ -37,6 +37,39 @@ Click on a vendor tab to see validated switches for each of the Azure Local traf
 
 If your switch isn't included, contact your switch vendor to ensure that your switch model and the version of the switch's operating system supports the requirements in the next section.
 
+# [Alcatel-Lucent_Enterprise](#tab/Alcatel-Lucent_Enterprise)
+
+### 24H2
+
+|Model |Firmware|Management |Storage |Compute (Standard)|Compute (SDN)|
+|-----  |---| :-:  | :-:  | :-:   | :-:   |
+| [OmniSwitch 6900-X24](https://www.al-enterprise.com/-/media/assets/internet/documents/omniswitch-6900-datasheet-en.pdf) <br>(10, 25, 40, 100 GbE)|AOS version 8.10R4 or later|&check;| &check;| &check;| &check; |
+| [OmniSwitch 6900-T24](https://www.al-enterprise.com/-/media/assets/internet/documents/omniswitch-6900-datasheet-en.pdf) <br>(10, 25, 40, 100 GbE)|AOS version 8.10R4 or later|&check;| &check;| &check;| &check;|
+| [OmniSwitch 6900-X48](https://www.al-enterprise.com/-/media/assets/internet/documents/omniswitch-6900-datasheet-en.pdf) <br>(10, 25, 40, 100 GbE)|AOS version 8.10R4 or later|&check;| &check;| &check;| &check; |
+| [OmniSwitch 6900-T48](https://www.al-enterprise.com/-/media/assets/internet/documents/omniswitch-6900-datasheet-en.pdf) <br>(10, 25, 40, 100 GbE)|AOS version 8.10R4 or later|&check;| &check;| &check;|  &check;|
+| [OmniSwitch 6900-X48E](https://www.al-enterprise.com/-/media/assets/internet/documents/omniswitch-6900-datasheet-en.pdf) <br>(10, 25, 40, 100 GbE)|AOS version 8.10R4 or later|&check;| &check;| &check;| &check; |
+| [OmniSwitch 6900-V48](https://www.al-enterprise.com/-/media/assets/internet/documents/omniswitch-6900-datasheet-en.pdf) <br>(10, 25, 40, 100 GbE)|AOS version 8.10R4 or later|&check;| &check;| &check;|&check; |
+| [OmniSwitch 6900-C32E](https://www.al-enterprise.com/-/media/assets/internet/documents/omniswitch-6900-datasheet-en.pdf) <br>(10, 25, 40, 100 GbE)|AOS version 8.10R4 or later|&check;| &check;| &check;|&check; |
+
+> [!NOTE]
+> Guest RDMA requires both Compute (Standard) and Storage.
+
+### 23H2
+
+|Model |Firmware|Management |Storage |Compute (Standard)|Compute (SDN)|
+|-----  |---| :-:  | :-:  | :-:   | :-:   |
+| [OmniSwitch 6900-X24](https://www.al-enterprise.com/-/media/assets/internet/documents/omniswitch-6900-datasheet-en.pdf) <br>(10, 25, 40, 100 GbE)|AOS version 8.10R4 or later|&check;| &check;| &check;| &check; |
+| [OmniSwitch 6900-T24](https://www.al-enterprise.com/-/media/assets/internet/documents/omniswitch-6900-datasheet-en.pdf) <br>(10, 25, 40, 100 GbE)|AOS version 8.10R4 or later|&check;| &check;| &check;| &check;|
+| [OmniSwitch 6900-X48](https://www.al-enterprise.com/-/media/assets/internet/documents/omniswitch-6900-datasheet-en.pdf) <br>(10, 25, 40, 100 GbE)|AOS version 8.10R4 or later|&check;| &check;| &check;| &check; |
+| [OmniSwitch 6900-T48](https://www.al-enterprise.com/-/media/assets/internet/documents/omniswitch-6900-datasheet-en.pdf) <br>(10, 25, 40, 100 GbE)|AOS version 8.10R4 or later|&check;| &check;| &check;|  &check;|
+| [OmniSwitch 6900-X48E](https://www.al-enterprise.com/-/media/assets/internet/documents/omniswitch-6900-datasheet-en.pdf) <br>(10, 25, 40, 100 GbE)|AOS version 8.10R4 or later|&check;| &check;| &check;| &check; |
+| [OmniSwitch 6900-V48](https://www.al-enterprise.com/-/media/assets/internet/documents/omniswitch-6900-datasheet-en.pdf) <br>(10, 25, 40, 100 GbE)|AOS version 8.10R4 or later|&check;| &check;| &check;|&check; |
+| [OmniSwitch 6900-C32E](https://www.al-enterprise.com/-/media/assets/internet/documents/omniswitch-6900-datasheet-en.pdf) <br>(10, 25, 40, 100 GbE)|AOS version 8.10R4 or later|&check;| &check;| &check;|&check; |
+
+> [!NOTE]
+> Guest RDMA requires both Compute (Standard) and Storage.
+
+
 # [Arista](#tab/Arista)
 
 ### 24H2
