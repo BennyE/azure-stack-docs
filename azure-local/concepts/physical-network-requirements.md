@@ -37,7 +37,7 @@ Click on a vendor tab to see validated switches for each of the Azure Local traf
 
 If your switch isn't included, contact your switch vendor to ensure that your switch model and the version of the switch's operating system supports the requirements in the next section.
 
-# [Alcatel-Lucent_Enterprise](#tab/Alcatel-Lucent_Enterprise)
+# [Alcatel-Lucent&nbsp;Enterprise](#tab/Alcatel-Lucent&nbsp;Enterprise)
 
 ### 24H2
 
